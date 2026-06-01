@@ -1,4 +1,4 @@
-# Global-Climate-Health-Analysis
+# global-climate-health-analysis
 
 Using Tableau Public and the dataset named Global Climate Health Impact Tracker (2015-2025) by Sohum Gokhale posted on Kaggle.com, I have done an analysis on the data in tableau. 
 
